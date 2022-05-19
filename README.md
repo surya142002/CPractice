@@ -1,3 +1,3 @@
 # Practice C
 
-Sharpen C skills
+Sharpen C skills!
